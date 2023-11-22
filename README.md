@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode" /> </p>
 
-- 🔭 I’m currently working as an [Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/). I am also a current MPH Candidate at the USC Keck School of Medicine pursuing a concentration in Biostastics and Epidemiology.
+- 🔭 I’m currently working as an [Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/). I am also a MPH Candidate at the USC Keck School of Medicine pursuing a concentration in Biostastics and Epidemiology.
 
 - 🌱 I’m currently learning **Javascript/Typescript, Tableau, React**
 
