@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm James Settles</h1>
 <h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact in various domains. I am passionate about utilizing data visualization, data mining, and debugging techniques to extract meaningful insights and inform decision-making. </h3>
 
-<h3 align="left">Additionally, I am intrigued by the potential of data to advance public health initiatives, promote health equity, and fuel groundbreaking research in biomarkers and preventative medicine. Furthermore, I am fascinated by the role of automation and robotics in increasing precision and efficiency in healthcare settings.</h3>
+<h3 align="left">Additionally, I am intrigued by the potential of data to advance public health initiatives, promote health equity, and fuel groundbreaking research in bioinformatics and preventative medicine. Furthermore, I am fascinated by the role of automation and robotics in increasing precision and efficiency in healthcare settings.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode" /> </p>
 
-- 🔭 I’m currently working as an [Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/)
+- 🔭 I’m currently working as an [Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/) and a MPH Candidate at the USC Keck School of Medicine pursuing a concentration in Biostastics and Epidemiology.
 
 - 🌱 I’m currently learning **Javascript/Typescript, Tableau, React**
 
