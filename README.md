@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Tasks, Public Health initiatives, Automation Projects, and Research.**
 
-- 🤝 I’m looking for help with **Latest innovations AI, NLP, and innovative Data Science Tools.**
+- 🤝 I’m looking for help with **Latest innovations in AI, NLP, and innovative Data Science Tools.**
 
 - 👨‍💻 All of my projects are available at [https://eyefixcode.github.io/](https://eyefixcode.github.io/)
 
