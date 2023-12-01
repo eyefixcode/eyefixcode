@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as an [Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/). I am also a MPH Candidate at the USC Keck School of Medicine pursuing a concentration in Biostastics and Epidemiology.
 
-- 🌱 I’m currently learning **Javascript/Typescript, Tableau, React**
+- 🌱 I’m currently learning **Javascript/Typescript, Tableau, React, NLP and ML algorithms**
 
-- 👯 I’m looking to collaborate on **Data Science Tasks, Public Health initiatives, Automation Projects, and Research.**
+- 👯 I’m looking to collaborate on **Data Science Tasks, Public Health initiatives, Automation Projects, and Research. Experienced in various advanced statistical applications and open-source softwares such as Python, R, SQL, and SPSS.**
 
 - 🤝 I’m looking for help with **Latest innovations in AI, NLP, and innovative Data Science Tools.**
 
