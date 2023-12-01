@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Javascript/Typescript, Tableau, React, NLP and ML algorithms**
 
-- 👯 I’m looking to collaborate on **Data Science Tasks, Public Health initiatives, Automation Projects, and Research. Experienced in various advanced statistical applications and open-source softwares such as Python, R, SQL, and SPSS.**
+- 👯 I’m looking to collaborate on **Data Science Tasks, Public Health initiatives, Automation Projects, and Research. Experienced in a variety of statistical procedures and softwares to create standalone applications for business development and insight such as Python, R, SQL, and SPSS. For Data Visualization and other automation related tasks, have approximately 4 years experience spanning business intelligence tools such as MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
 
-- 🤝 I’m looking for help with **Latest innovations in AI, NLP, and innovative Data Science Tools.**
+- 🤝 I’m looking for help with **Latest innovations in AI, NLP, and innovative cutting-edge Data Science Tools.**
 
 - 👨‍💻 All of my projects are available at [https://eyefixcode.github.io/](https://eyefixcode.github.io/)
 
