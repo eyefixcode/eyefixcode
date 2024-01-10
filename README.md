@@ -14,9 +14,9 @@
 
 - 🤝 I’m looking for help with **Latest innovations in AI, NLP, and innovative cutting-edge Data Science Tools.**
 
-- 👨‍💻 All of my projects are available at [https://eyefixcode.github.io/](https://eyefixcode.github.io/)
+- 👨‍💻 Some of my projects are available [HERE!](https://eyefixcode.github.io/)
 
-- 📝 I regularly write articles on [https://eyefixcode.github.io/](https://eyefixcode.github.io/)
+- 📝 I regularly write articles [HERE!](https://eyefixcode.github.io/)
 
 - 💬 Ask me about **Python, SQL, R, SPSS, Business Intelligence tools, Postman API**
 
