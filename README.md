@@ -40,5 +40,5 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" />
 </p>
-<p align="right"></p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=dark" alt="GitHub Streak" /></a>
+<p align="right"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=dark" alt="GitHub Streak" /></a>
 </p>
