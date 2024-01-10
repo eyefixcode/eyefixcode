@@ -28,7 +28,9 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" />
-<img src="https://streak-stats.demolab.com?user=eyefixcode&theme=highcontrast" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <iframe src="https://streak-stats.demolab.com?user=eyefixcode" width="600" height="200" frameborder="0" scrolling="no"></iframe>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
