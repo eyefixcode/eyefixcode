@@ -27,9 +27,8 @@
 - ⚡ Fun fact **Huge Basketball fan, GO LAKERS!**
 
 <p align="center">
-![eyefixcode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyefixcode&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" />
-<iframe src="https://streak-stats.demolab.com?user=eyefixcode" width="600" height="200" frameborder="0" scrolling="no"></iframe>
+<img src="https://streak-stats.demolab.com?user=eyefixcode" alt="eyefixcode"></img>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
