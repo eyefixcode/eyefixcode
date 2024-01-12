@@ -16,7 +16,7 @@
 <p align="left">  </p>
 
 <!-- Background -->
-- 🔭 Currently working as an **[Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/)** <br> MPH Candidate at the USC Keck School of Medicine pursuing a concentration in Biostastics and Epidemiology.
+- 🔭 Currently working as an **[Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/)** <br> **MPH Candidate** at the **USC Keck School of Medicine** pursuing a concentration in **Biostastics** and **Epidemiology**
 - 🌱 I’m currently learning **Javascript/Typescript, Tableau, React, NLP and ML algorithms**
 - 👯 Always looking to collaborate on **Data Science, Public Health,** and **Automation**-related initiatives. Familiar working with standard statistical procedures and softwares to sustain business informatics. <br> Software stack includes: **Python**, **R**, **SQL**, and **SPSS** <br> Accumulated **4+ years** experience spanning **Data Visualization** and **Automation** related tasks. Familiar with business intelligence tools such as MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
 - 🤝 I’m looking for help with discovering latest and greatest business-applications utilizing **AI**, **NLP**, and cutting-edge **Data Science Tools**.**
