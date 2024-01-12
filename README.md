@@ -5,7 +5,7 @@
 <h1 align="center">
   <!-- Contact links -->
   <a align="left" href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="_blank">
-    <img align="left" src="https://github.com/eyefixcode/Misc/raw/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" /></a>
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="james bryce settles" height="40" width="40" /></a>
   <a align="left" href="https://instagram.com/eyefixcode" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
   <a align="left" href="https://twitter.com/eyefixcode" target="_blank">
