@@ -7,8 +7,8 @@
 <h1 align="center">Hi 👋, I'm James Settles
   
   <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif">
-  <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
 </h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
 
 <!-- About me -->
 <h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact. Skilled in creating data visualization, data-mining, and implementing strategic solutions to support informed decision-making. </h3> 
