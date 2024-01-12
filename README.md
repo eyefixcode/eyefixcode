@@ -4,7 +4,7 @@
   </div>
 <h1 align="center">
   <!-- Contact links -->
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div align="center">
     <a href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="_blank">
       <img src="https://github.com/eyefixcode/Misc/raw/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" />
     </a>
