@@ -4,14 +4,14 @@
   </div>
 
 <!-- Intro -->
-<h1 align="center"> Hi 👋, I'm James Settles
+<h1 align="center"> Hi 👋, I'm James Settles </h1>
 <!-- Contact section -->
 <!-- <h3 align="left"><b>Connect with me:</b></h3> -->
 <a align="left" href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="blank"><img align="center" src="https://github.com/eyefixcode/Misc/blob/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" /></a>
 <a align="left" href="https://instagram.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
 <a align="left" href="https://twitter.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyefixcode" height="30" width="40" /></a>
 <a align="left" href="https://www.youtube.com/c/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyefixcode" height="30" width="40" /></a>
-</h1>
+
 
 
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" speed="slow">
