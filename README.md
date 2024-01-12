@@ -15,7 +15,7 @@
   <!-- Name intro -->
   <b align="center">Hi 👋, I'm James Settles!</b>
   <!-- Profile visit counter dynamic -->
-  <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
+  <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode" height=100>
 </h1>
   
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" height="2" speed="slow">
