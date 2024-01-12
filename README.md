@@ -1,6 +1,6 @@
 <!-- Background image: MarioCoder XD -->
 <div align="center">
-  <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="1000" height="200">
+  <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="1000" height="300">
 </div>
 <h1 align="center">
   <!-- Contact links -->
