@@ -36,7 +36,7 @@
 <!-- Dynamic GitHub Stat Trackers -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" height="175"/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=highcontrast" alt="GitHub Streak" height="175"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=radical" alt="GitHub Streak" height="175"/></a>
   
 <!-- Tech stack -->
 <h3 align="left">Languages and Tools:</h3>
