@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyefixcode" height="30" width="40" /></a>
 
   <!-- Name intro -->
-  <a align="center">Hi 👋, I'm James Settles</a>
+  <b align="center">Hi 👋, I'm James Settles</b>
 
   <!-- Profile visit counter dynamic -->
   <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
