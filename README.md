@@ -3,9 +3,6 @@
   <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="auto" height="200">
   </div>
 
-<!-- Main Header -->
-<h1 align="center"> 
-<!-- Contact links -->
 <!-- Contact links -->
 <table>
   <tr>
@@ -23,12 +20,11 @@
     </td>
   </tr>
 </table>
-
 <!-- Name intro -->
 Hi 👋, I'm James Settles 
 <!-- Profile visit counter dynamic -->
 <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
-</h1>
+
 
 
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" speed="slow">
