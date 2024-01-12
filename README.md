@@ -12,7 +12,7 @@
 
 <!-- About me -->
 <h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact in various domains. Experienced in crafting data visualization, data mining, and debugging solutions to inform decision-making. </h3> 
-<h3 align="left">I am passionate leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
+<h3 align="left">Passionate about leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
 <p align="left">  </p>
 
 
