@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Settles</h1>
 <h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact in various domains. I am passionate about utilizing data visualization, data mining, and debugging techniques to extract meaningful insights and inform decision-making. </h3> 
-![](https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif)
+<a href="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif"></a>
 <h3 align="left">I am passionate about the transformative power utilizing data to revolutionize public health, promote equity, and ignite groundbreaking research. I am eager to contribute my skills to these advancements and am captivated by the potential of automation to enhance healthcare.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode" /> </p>
