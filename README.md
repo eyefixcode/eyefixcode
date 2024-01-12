@@ -36,8 +36,7 @@
 <!-- Background (LINKS) -->
 - 👨‍💻 Some of my projects are available **[HERE!](https://eyefixcode.github.io/)**
 
-- 📝 I regularly write articles **[HERE!](https://eyefixcode.github.io/)**
-
+<!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
 - 📫 How to reach me **Settles.James.B@gmail.com**
 
 - 📄 Know about my experiences **([Resume](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf)**
