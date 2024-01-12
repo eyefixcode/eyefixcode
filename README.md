@@ -1,12 +1,12 @@
 <!-- Background image: MarioCoder XD -->
 <div align="center">
   <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="auto" height="200">
-  <img src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
-</div>
+  </div>
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm James Settles
-<img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif">
+  <img src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
+  <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif">
 </h1>
 
 <!-- About me -->
