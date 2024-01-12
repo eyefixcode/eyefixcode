@@ -35,7 +35,7 @@
 
 <!-- Dynamic GitHub Stat Trackers -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" height="100"/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=highcontrast" alt="GitHub Streak" height="100"/></a>
   
 <!-- Tech stack -->
