@@ -11,14 +11,14 @@
 </h1>
 
 <!-- About me -->
-<h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact in various domains. Experienced in crafting data visualization, data mining, and debugging solutions to inform decision-making. </h3> 
+<h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact. Skilled in creating data visualization, data-mining, and implementing strategic solutions to support informed decision-making. </h3> 
 <h3 align="left">Passionate about leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
 <p align="left">  </p>
 
 <!-- Background -->
-- 🔭 I’m currently working as an [Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/). I am also a MPH Candidate at the USC Keck School of Medicine pursuing a concentration in Biostastics and Epidemiology.
+- 🔭 Currently working as an **[Automation Engineer Consultant]**(https://www.linkedin.com/in/james-bryce-settles-99675013a/). <br> MPH Candidate at the USC Keck School of Medicine pursuing a concentration in Biostastics and Epidemiology.
 - 🌱 I’m currently learning **Javascript/Typescript, Tableau, React, NLP and ML algorithms**
-- 👯 I’m looking to collaborate on **Data Science, Public Health,** and **Automation**-related initiatives. Familiar working with standard statistical procedures and softwares to sustain business informatics. <br>Software stack includes **Python**, **R**, **SQL**, and **SPSS**. Accumulated **4+ years** experience spanning **Data Visualization** and **Automation** related tasks. Familiar with business intelligence tools such as MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
+- 👯 Always looking to collaborate on **Data Science, Public Health,** and **Automation**-related initiatives. Familiar working with standard statistical procedures and softwares to sustain business informatics. <br> Software stack includes: **Python**, **R**, **SQL**, and **SPSS**. <br> Accumulated **4+ years** experience spanning **Data Visualization** and **Automation** related tasks. Familiar with business intelligence tools such as MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
 - 🤝 I’m looking for help with discovering latest and greatest business-applications utilizing **AI**, **NLP**, and cutting-edge **Data Science Tools**.**
 
 - 👨‍💻 Some of my projects are available [HERE!](https://eyefixcode.github.io/)
