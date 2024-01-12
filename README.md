@@ -6,10 +6,12 @@
 <!-- Main Header -->
 <h1 align="center"> 
 <!-- Contact links -->
-<a href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="_blank"><img src="https://github.com/eyefixcode/Misc/raw/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" /></a>
+
+<span align="left"> <a href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="_blank"><img src="https://github.com/eyefixcode/Misc/raw/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" /></a>
 <a href="https://instagram.com/eyefixcode" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
 <a href="https://twitter.com/eyefixcode" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyefixcode" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eyefixcode" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyefixcode" height="30" width="40" /></a>
+</span>
 <!-- Name intro -->
 Hi 👋, I'm James Settles 
 <!-- Profile visit counter dynamic -->
