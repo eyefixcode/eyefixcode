@@ -15,14 +15,11 @@
 <h3 align="left">Passionate about leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
 <p align="left">  </p>
 
-
+<!-- Background -->
 - 🔭 I’m currently working as an [Automation Engineer Consultant](https://www.linkedin.com/in/james-bryce-settles-99675013a/). I am also a MPH Candidate at the USC Keck School of Medicine pursuing a concentration in Biostastics and Epidemiology.
-
 - 🌱 I’m currently learning **Javascript/Typescript, Tableau, React, NLP and ML algorithms**
-
-- 👯 I’m looking to collaborate on **Data Science Tasks, Public Health initiatives, Automation Projects, and Research. Experienced in a variety of statistical procedures and softwares to create standalone applications for business development and insight such as Python, R, SQL, and SPSS. For Data Visualization and other automation related tasks, have approximately 4 years experience spanning business intelligence tools such as MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
-
-- 🤝 I’m looking for help with **Latest innovations in AI, NLP, and innovative cutting-edge Data Science Tools.**
+- 👯 I’m looking to collaborate on **Data Science Tasks, Public Health initiatives, Automation Projects, and Research.** Familiar working with statistical procedures and softwares to sustain business development. Software stack includes **Python**, **R**, **SQL**, and **SPSS**. Accumulated **4+ years** experience spanning **Data Visualization** and **Automation** related tasks. Familiar with business intelligence tools such as MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
+- 🤝 I’m looking for help with discovering latest and greatest business-applications utilizing **AI**, **NLP**, and *cutting-edge* **Data Science Tools**.**
 
 - 👨‍💻 Some of my projects are available [HERE!](https://eyefixcode.github.io/)
 
