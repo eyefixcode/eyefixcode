@@ -1,3 +1,44 @@
+body {
+            margin: 0;
+            padding: 0;
+            background-image: url('https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif');
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+.content {
+            height: 200vh; /* Adjust the height based on your content */
+            position: relative;
+            z-index: 1;
+        }
+
+.header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.8); /* Adjust the background color and opacity as needed */
+            z-index: 2;
+            transition: background 0.5s ease;
+        }
+
+.header img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+        }
+
+.scroll-down {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: white;
+        }
 <h1 align="center">Hi 👋, I'm James Settles
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif">
 </h1>
