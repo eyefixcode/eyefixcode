@@ -39,7 +39,7 @@
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
 - 📫 How to reach me **Settles.James.B@gmail.com**
 
-- 📄 Know about my experiences **([Resume](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf)**
+- 📄 Know about my experiences **([Resume](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf))**
 
 - ⚡ Fun fact Huge Basketball fan, **"*GO LAKERS!*"**
 
