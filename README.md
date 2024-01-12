@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="auto" height="100">
+  <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="auto" height="200">
 </div>
 <h1 align="center">Hi 👋, I'm James Settles
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif">
