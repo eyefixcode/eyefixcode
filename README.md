@@ -1,4 +1,4 @@
-<div align="center" style="height: "20%"; overflow: hidden;">
+<div align="center" style="height: 200px; overflow: hidden;">
   <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="100%">
 </div>
 <h1 align="center">Hi 👋, I'm James Settles
