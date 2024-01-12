@@ -5,8 +5,9 @@
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm James Settles
-  <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
+  
   <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif">
+  <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
 </h1>
 
 <!-- About me -->
