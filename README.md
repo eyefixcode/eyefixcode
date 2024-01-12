@@ -24,7 +24,6 @@
 <!-- About me -->
 <h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact. Skilled in creating data visualization, data-mining, and implementing strategic solutions to support informed decision-making. </h3> 
 <h3 align="left">Passionate about leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
-<p align="left">  </p>
 
 <!-- Background -->
 - 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> **MPH Candidate** at the **USC Keck School of Medicine** pursuing a concentration in **Biostastics** and **Epidemiology**
