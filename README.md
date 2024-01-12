@@ -4,14 +4,14 @@
   </div>
 
 <!-- Main Header -->
-<h1> 
+<h1 align="center"> 
 <!-- Contact links -->
 <a align="left" href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="blank"><img align="center" src="https://github.com/eyefixcode/Misc/blob/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" /></a>
 <a align="left" href="https://instagram.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
 <a align="left" href="https://twitter.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyefixcode" height="30" width="40" /></a>
 <a align="left" href="https://www.youtube.com/c/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyefixcode" height="30" width="40" /></a>
 <!-- Name intro -->
-<h2 align="center"> Hi 👋, I'm James Settles </h2> 
+Hi 👋, I'm James Settles 
 <!-- Profile visit counter dynamic -->
 <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
 </h1>
