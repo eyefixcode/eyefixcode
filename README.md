@@ -3,19 +3,22 @@
   <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="auto" height="200">
   </div>
 
-<!-- Intro -->
-<h1 align="center"> Hi 👋, I'm James Settles </h1>
-<!-- Contact section -->
-<!-- <h3 align="left"><b>Connect with me:</b></h3> -->
+<!-- Main Header -->
+<h1> 
+<!-- Contact links -->
 <a align="left" href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="blank"><img align="center" src="https://github.com/eyefixcode/Misc/blob/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" /></a>
 <a align="left" href="https://instagram.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
 <a align="left" href="https://twitter.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyefixcode" height="30" width="40" /></a>
 <a align="left" href="https://www.youtube.com/c/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyefixcode" height="30" width="40" /></a>
-
+<!-- Name intro -->
+<h2 align="center"> Hi 👋, I'm James Settles </h2> 
+<!-- Profile visit counter dynamic -->
+<img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
+</h1>
 
 
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" speed="slow">
-<img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
+
 
 <!-- About me -->
 <h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact. Skilled in creating data visualization, data-mining, and implementing strategic solutions to support informed decision-making. </h3> 
