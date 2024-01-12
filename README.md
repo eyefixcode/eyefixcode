@@ -19,7 +19,7 @@
     </td>
 
 <!-- Name intro -->
-Hi 👋, I'm James Settles 
+<a align="center">Hi 👋, I'm James Settles</a> 
 <!-- Profile visit counter dynamic -->
 <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
 </h1>
