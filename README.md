@@ -5,8 +5,18 @@
 
 <!-- Intro -->
 <h1 align="center"> Hi 👋, I'm James Settles
-  
+
+<!-- Contact section -->
+<h3 align="left"><b>Connect with me:</b></h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="blank"><img align="center" src="https://github.com/eyefixcode/Misc/blob/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" /></a>
+<a href="https://instagram.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
+<a href="https://twitter.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyefixcode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyefixcode" height="30" width="40" /></a>
+</p>
 </h1>
+
+
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" speed="slow">
 <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode">
 
@@ -21,14 +31,7 @@
 - 👯 Always looking to collaborate on **Data Science, Public Health,** and **Automation**-related initiatives. Familiar working with standard statistical procedures and softwares to sustain business informatics. <br> Software stack includes: **Python**, **R**, **SQL**, and **SPSS** <br> Accumulated **4+ years** experience spanning **Data Visualization** and **Automation** related tasks. Familiar with business intelligence tools such as **MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
 - 🤝 I’m looking for help with discovering latest and greatest business-applications utilizing **AI**, **NLP**, and cutting-edge **Data Science Tools**.**
 
-<!-- Contact section -->
-<h3 align="left"><b>Connect with me:</b></h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="blank"><img align="center" src="https://github.com/eyefixcode/Misc/blob/main/socials/linkedin-sleek.gif" alt="james bryce settles" height="40" width="40" /></a>
-<a href="https://instagram.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
-<a href="https://twitter.com/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyefixcode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eyefixcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyefixcode" height="30" width="40" /></a>
-</p>
+
 
 <!-- Background (LINKS) -->
 - 👨‍💻 Some of my projects are available **[HERE!](https://eyefixcode.github.io/)**
