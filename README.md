@@ -47,9 +47,9 @@
 
 <!-- Dynamic GitHub Stat Trackers -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" height="135" width="auto"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=radical" alt="GitHub Streak" height="135"/>
-<img src="https://github-readme-stats.vercel.app/api?username=eyefixcode&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="eyefixcode" height="135" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" height="135" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eyefixcode&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="eyefixcode" height="135" width="auto"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=radical" alt="GitHub Streak" height="135"/>
 </p>
  
 <!-- Tech stack -->
