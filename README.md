@@ -22,15 +22,15 @@
 - 🤝 I’m looking for help with discovering latest and greatest business-applications utilizing **AI**, **NLP**, and cutting-edge **Data Science Tools**.**
 
 <!-- Background (LINKS) -->
-- 👨‍💻 Some of my projects are available [HERE!](https://eyefixcode.github.io/)
+- 👨‍💻 Some of my projects are available **[HERE!](https://eyefixcode.github.io/)**
 
-- 📝 I regularly write articles [HERE!](https://eyefixcode.github.io/)
+- 📝 I regularly write articles **[HERE!](https://eyefixcode.github.io/)**
 
-- 📫 How to reach me **settles.james.b@gmail.com**
+- 📫 How to reach me **Settles.James.B@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf)
+- 📄 Know about my experiences **([Resume](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf)**
 
-- ⚡ Fun fact **Huge Basketball fan, GO LAKERS!**
+- ⚡ Fun fact Huge Basketball fan, **"*GO LAKERS!*"**
 
 
 <!-- Dynamic GitHub Stat Trackers -->
