@@ -27,7 +27,7 @@
 
 <!-- Background -->
 - 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> **MPH Candidate** at the **USC Keck School of Medicine** pursuing a concentration in **Biostastics** and **Epidemiology**
-- 🌱 I’m currently learning **Javascript/Typescript, Tableau, React, NLP and ML algorithms**
+- 🌱 I’m currently learning **Javascript, Tableau, React, NLP and ML algorithms**
 - 👯 Always looking to collaborate on **Data Science, Public Health,** and **Automation**-related initiatives. Familiar working with standard statistical procedures and softwares to sustain business informatics.
 - 👨‍💻 Software stack includes: **Python**, **R**, **SQL**, and **SPSS** <br> Accumulated **4+ years** experience spanning **Data Visualization** and **Automation** related tasks invoking **Business Intelligence** tools such as **MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
 - 🤝 I’m looking for help with discovering latest and greatest business applications utilizing **AI**, **NLP**, and cutting-edge **Data Science Tools**.**
