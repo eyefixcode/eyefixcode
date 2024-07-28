@@ -27,7 +27,7 @@
 
 <!-- Background -->
 - 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br>  I am currently a **Master in Public Health Candidate** at the **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>**
-- 👨‍💻 My Software stack includes: **<ins>Python</ins>**, **<ins>R</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, and **<ins>SPSS</ins>** <br> Accumulated **<ins>4+ years</ins>** of professional experience in **Data Visualization** and **Automation** related tasks and invoking a variety of **Business Intelligence** tools such as **<ins>MS Power Platform</ins> (PowerBI/PowerAutomate/Sharepoint)**, **Metabase**, and **Looker**.
+- 👨‍💻 My Software stack includes: **<ins>Python</ins>**, **<ins>R</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, and **<ins>SPSS</ins>** <br> Accumulated **<ins>4+ years</ins>** of professional experience in **Data Visualization** and **Automation** related tasks and invoking a variety of **Business Intelligence** tools such as: <br> **<ins>MS Power Platform</ins> (PowerBI/PowerAutomate/Sharepoint)**, **Metabase**, and **Looker**.
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 
 <!-- Background (LINKS) -->
