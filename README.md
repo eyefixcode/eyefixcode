@@ -23,7 +23,8 @@
 
 <!-- About me -->
 <h3 align="center">Health informatic enthusiast dedicated to innovating health information technology to improve health equity. 
-
+<br>
+<br>
 Highly interested in exploring opportunites committed to eradicating health disparities and innovative research methods. I have successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in CRO's and diagnostic laboratories. </h3> 
 <h3 align="left">Passionate about the immense potential of tech to revolutionize public health today!</h3>
 
