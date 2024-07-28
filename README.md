@@ -39,18 +39,15 @@
 - 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.
 - 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**
 
-- 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf)**
+- 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**
 
 - ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, and playing and watching Basketball 🏀 **"*LETS GO LAKERS!*"**
-
-
 <!-- Dynamic GitHub Stat Trackers -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" height="135" width="auto"/>
   <img src="https://github-readme-stats.vercel.app/api?username=eyefixcode&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="eyefixcode" height="135" width="auto"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=radical" alt="GitHub Streak" height="135"/>
-</p>
- 
+</p> 
 <!-- Tech stack -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
