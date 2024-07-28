@@ -26,8 +26,8 @@
 <h3 align="left">Passionate about leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
 
 <!-- Background -->
-- 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br>  I am currently a **Master in Public Health Candidate** at the **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>**
-- 👨‍💻 My Software stack includes: **<ins>Python</ins>**, **<ins>R</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, and **<ins>SPSS</ins>** <br> Accumulated **<ins>4+ years</ins>** of professional experience in **Data Visualization** and **Automation** related tasks and invoking a variety of **Business Intelligence** tools such as: <br> **<ins>MS Power Platform</ins> (PowerBI/PowerAutomate/Sharepoint)**, **Metabase**, and **Looker**.
+- 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> I am currently a **Master in Public Health Candidate** at the **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>**
+- 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>R</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, and **<ins>SPSS</ins>** <br> Accumulated **<ins>4+ years</ins>** of professional experience in **Data Visualization** and **Automation** related tasks and invoking a variety of **Business Intelligence** tools such as: <br> **<ins>MS Power Platform</ins> (PowerBI/PowerAutomate/Sharepoint)**, **Metabase**, and **Looker**.
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 
 <!-- Background (LINKS) -->
