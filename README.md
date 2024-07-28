@@ -33,14 +33,14 @@
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 - ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, and playing and watching Basketball 🏀 **"*LETS GO LAKERS!*"**
 <!-- Background (LINKS) -->
-- 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)**
+<!-- - 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)** -->
 
 
 <h3 align="left">Get in Contact...</h3>
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
 - 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.<br>
 - 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**<br>
-- 📄 Know about my experiences: [RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)
+- 📄 Know about my experiences [RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)
 
 <!-- Dynamic GitHub Stat Trackers -->
 <p align="center">
