@@ -42,7 +42,7 @@
 
 - 📄 Know about my experiences **[RESUME](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf)**
 
-- ⚡ Fun fact Huge Basketball fan, **"*GO LAKERS!*"**
+- ⚡ My main Hobbies center around playing Video Games, tinkering with robots and microelectronics, and playing and watching Basketball **"*LETS GO LAKERS!*"**
 
 
 <!-- Dynamic GitHub Stat Trackers -->
