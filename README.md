@@ -39,7 +39,7 @@
 <h3 align="left">Get in Contact:</h4>
 - 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.<br>
 - 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**<br>
-- 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**<br>
+- 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**
 <br>
 
 <!-- Dynamic GitHub Stat Trackers -->
