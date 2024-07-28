@@ -40,7 +40,7 @@
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
 - 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.<br>
 - 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**<br>
-- 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf/)**
+- 📄 Know about my experiences: [RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)
 
 <!-- Dynamic GitHub Stat Trackers -->
 <p align="center">
