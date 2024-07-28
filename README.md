@@ -31,17 +31,17 @@
 - 📊 Business Intelligence Proficiencies: **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
+- ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, and playing and watching Basketball 🏀 **"*LETS GO LAKERS!*"**
 <!-- Background (LINKS) -->
 - 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)**
 
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
 <h4 align="left">Get in Contact:</h4>
-- 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.
-- 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**
-- 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**
+- 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.<br>
+- 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**<br>
+- 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**<br>
+<br>
 
-
-- ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, and playing and watching Basketball 🏀 **"*LETS GO LAKERS!*"**
 <!-- Dynamic GitHub Stat Trackers -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" height="135" width="auto"/>
