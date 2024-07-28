@@ -28,7 +28,7 @@
 <!-- My Background -->
 - 🔭 Currently freelancing as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> I am also a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
 - 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>R</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, and **<ins>SPSS</ins>** <br>
--    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Business Intelligence Proficiencies: <br> **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
+-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Business Intelligence Proficiencies: **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
 - I have attained **<ins>4+ years</ins>** experience in leveraging a combination of my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business data analytics. 
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 
