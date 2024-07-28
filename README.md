@@ -34,7 +34,7 @@ Highly interested in exploring opportunites committed to eradicating health disp
 - 📊 Business Intelligence Proficiencies: **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
-- ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, playing & watching Basketball 🏀 **"*LETS GO LAKERS!*"**
+- ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, playing & watching Basketball 🏀 <br> **"*LETS GO LAKERS!*"**
 <!-- Background (LINKS) -->
 <!-- - 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)** -->
 
