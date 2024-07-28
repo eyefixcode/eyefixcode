@@ -36,11 +36,12 @@
 <!-- - 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)** -->
 
 
-<a> **Get in Contact...** </a>
+<a> **How to Contact...** </a>
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
-- 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.<br>
-- 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**<br>
-- 📄 Know about my experiences [RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)
+- 👥 Always eager to connect and learn more regarding **Data Science**, **Public Health**, and **Automation** opportunities.<br>
+- 📫 Email Address: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**<br>
+- ✅ Connect with me on Linkedin: **[HERE!](https://www.linkedin.com/in/james-bryce-settles-99675013a/)**
+- 📄 Export my Resume: **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**
 
 <!-- Dynamic GitHub Stat Trackers -->
 <p align="center">
