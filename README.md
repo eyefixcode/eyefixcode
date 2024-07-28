@@ -26,19 +26,16 @@
 <h3 align="left">Passionate about leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
 
 <!-- Background -->
-- 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> **MPH Candidate** at the **USC Keck School of Medicine** pursuing a concentration in **Biostastics** and **Epidemiology**
-- 🌱 I’m currently learning **Javascript, Tableau, React, NLP and ML algorithms**
-- 👯 Always looking to collaborate on **Data Science, Public Health,** and **Automation**-related initiatives. Familiar working with standard statistical procedures and softwares to sustain business informatics.
-- 👨‍💻 Software stack includes: **Python**, **R**, **SQL**, and **SPSS** <br> Accumulated **4+ years** experience spanning **Data Visualization** and **Automation** related tasks invoking **Business Intelligence** tools such as **MS Power Platform (PowerBI/PowerAutomate/Sharepoint), Metabase, and Looker.**
-- 🤝 I’m looking for help with discovering latest and greatest business applications utilizing **AI**, **NLP**, and cutting-edge **Data Science Tools**.**
-
-
+- 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> I am also a **Master in Public Health Candidate** at the **USC Keck School of Medicine** pursuing a concentration in **Biostastics** and **Epidemiology**
+- 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
+- 👯 Always looking to collaborate on **Data Science**, **Public Health**, and **Automation**-related initiatives. Familiar working with statistical procedures and softwares to sustain business informatics.
+- 👨‍💻 Software stack includes: **Python**, **R**, **SQL**, **SAS**, and **SPSS** <br> Accumulated **4+ years** of professional experience in **Data Visualization** and **Automation** related tasks and invoking a variety of **Business Intelligence** tools such as **MS Power Platform (PowerBI/PowerAutomate/Sharepoint)**, **Metabase**, and **Looker**.
 
 <!-- Background (LINKS) -->
 - 👨‍💻 Some of my projects are available **[HERE!](https://eyefixcode.github.io/)**
 
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
-- 📫 How to reach me **Settles.James.B@gmail.com**
+- 📫 How to reach me: **Settles.James.B@gmail.com**
 
 - 📄 Know about my experiences **[RESUME](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf)**
 
