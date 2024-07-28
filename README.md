@@ -27,20 +27,21 @@
 
 <!-- My Background -->
 - 🔭 Currently freelancing as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
-- 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, **<ins>SPSS</ins>**, and **<ins>R</ins>** <br> Business Intelligence Proficiencies: **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
-- I have attained **<ins>4+ years</ins>** experience in leveraging a combination of my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business data analytics. 
+- 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, **<ins>SPSS</ins>**, and **<ins>R</ins>** <br>
+- 📊 Business Intelligence Proficiencies: **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
+- 💼 I have attained **<ins>4+ years</ins>** experience in leveraging a combination of my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business data analytics. 
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 
 <!-- Background (LINKS) -->
 - 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)**
 
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
-- 👯 Always looking to explore professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation**.
-- 📫 How to reach me: **Settles.James.B@gmail.com**
+- 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.
+- 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**
 
 - 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/JamesSettles30OctResumeDS.pdf)**
 
-- ⚡ My main Hobbies center around playing Video Games, tinkering with robots and microelectronics, and playing and watching Basketball **"*LETS GO LAKERS!*"**
+- ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, and playing and watching Basketball 🏀 **"*LETS GO LAKERS!*"**
 
 
 <!-- Dynamic GitHub Stat Trackers -->
