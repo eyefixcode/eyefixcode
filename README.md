@@ -26,7 +26,7 @@
 <h3 align="left">Passionate about leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
 
 <!-- Background -->
-- 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br>  I am also a **Master in Public Health Candidate** at the **USC Keck School of Medicine** Pursuing a concentration in **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>**
+- 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br>  I am currently a **Master in Public Health Candidate** at the **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>**
 - 👨‍💻 Software stack includes: **<ins>Python</ins>**, **<ins>R</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, and **<ins>SPSS</ins>** <br> Accumulated **<ins>4+ years</ins>** of professional experience in **Data Visualization** and **Automation** related tasks and invoking a variety of **Business Intelligence** tools such as **<ins>MS Power Platform</ins> (PowerBI/PowerAutomate/Sharepoint)**, **Metabase**, and **Looker**.
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 
