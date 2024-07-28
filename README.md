@@ -35,7 +35,7 @@
 - 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)**
 
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
-<h4>Get in Contact:</h4>
+<h4 align="left">Get in Contact:</h4>
 - 👥 Always eager to learn more regarding professional opportunites pertaining to **Data Science**, **Public Health**, and **Automation** initiatives.
 - 📫 How to reach me: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**
 - 📄 Know about my experiences: **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**
