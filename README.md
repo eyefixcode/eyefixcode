@@ -22,12 +22,14 @@
 
 
 <!-- About me -->
-<h3 align="left">Data-Driven Public Health Innovator. My interests lie in harnessing data to drive positive impact. Skilled in creating data visualization, data-mining, and implementing strategic solutions to support informed decision-making. </h3> 
-<h3 align="left">Passionate about leveraging data to revolutionize public health, promote equity, and ignite research that benefits underserved populations.</h3>
+<h3 align="left">Health informatic enthusiast dedicated to innovating health information technology to improve health equity for all. Highly interested in exploring opportunites committed to eradicating health disparities and innovative research methods. I have successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in CRO's and diagnostic laboratories. </h3> 
+<h3 align="left">Passionate about the immense potential of tech to revolutionize public health today!</h3>
 
-<!-- Background -->
-- 🔭 Currently working as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> I am currently a **Master in Public Health Candidate** at the **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>**
-- 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>R</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, and **<ins>SPSS</ins>** <br> Accumulated **<ins>4+ years</ins>** of professional experience in **Data Visualization** and **Automation** related tasks and invoking a variety of **Business Intelligence** tools such as: <br> **<ins>MS Power Platform</ins> (PowerBI/PowerAutomate/Sharepoint)**, **Metabase**, and **Looker**.
+<!-- My Background -->
+- 🔭 Currently freelancing as an **[Automation Engineer Consultant](https://eyefixcode.github.io/)** <br> I am also a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
+- 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>R</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, and **<ins>SPSS</ins>** <br>
+-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Business Intelligence Proficiencies: <br> **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
+- I have attained **<ins>4+ years</ins>** experience in leveraging a combination of my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business data analytics. 
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 
 <!-- Background (LINKS) -->
