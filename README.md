@@ -25,8 +25,7 @@
 <h3 align="center">Health informatic enthusiast dedicated to innovating health information technology to improve health equity. 
 <br>
 <br>
-Highly interested in exploring opportunites committed to eradicating health disparities and innovative research methods in realm of bioinformatics and public health. I have successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in both CRO's and diagnostic laboratories. </h3> 
-<h3 align="left">Passionate about the immense potential of tech to revolutionize public health today!</h3>
+Highly interested in exploring opportunites committed to eradicating health disparities and innovative research methods in realm of bioinformatics and public health. I have successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in both CRO's and diagnostic laboratories. </h3>
 
 <!-- My Background -->
 - 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
