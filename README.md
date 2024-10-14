@@ -20,7 +20,9 @@
   
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" height="2" speed="slow">
 
-
+<h2>- 👨‍💻 My Software stack includes: 
+[<kbd> **Python** </kbd>](https://github.com/eyefixcode/Python) [<kbd> **SQL** </kbd>](https://github.com/eyefixcode/SQL) [<kbd> **SAS** </kbd>](https://github.com/eyefixcode/SAS) [<kbd> **SPSS** </kbd>](https://github.com/eyefixcode/SPSS) [<kbd> **R** </kbd>](https://github.com/eyefixcode/R)
+</h2>
 <!-- About me -->
 <h3 align="center">Health informatic enthusiast dedicated to innovating health information technology to improve health equity. 
 <br>
