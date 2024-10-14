@@ -26,7 +26,8 @@
 <br>
 Highly interested in exploring opportunites committed to combatting health disparities within the realm of bioinformatics and public health. 
 <br>
-I have a successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in both CRO's and diagnostic laboratories. </h3>
+<br>
+I have specialized in developing data visualizations and data-mining solutions which has supported data-driven business operations in CRO's and diagnostic laboratories. </h3>
 
 <!-- My Background -->
 - 👨‍💻 My Software stack (Link to Repos): 
