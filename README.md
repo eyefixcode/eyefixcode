@@ -29,7 +29,7 @@ Currently exploring opportunites committed to combatting health disparities with
 <br>
 I have specialized in developing data visualizations and data-mining solutions which has supported data-driven business operations in CRO's and diagnostic laboratories. </h3>
 
-<br>
+
 <!-- My Background -->
 - 👨‍💻 My Software stack (Link to Repos): 
 [<kbd> **Python** </kbd>](https://github.com/eyefixcode/Python) [<kbd> **SQL** </kbd>](https://github.com/eyefixcode/SQL) [<kbd> **SAS** </kbd>](https://github.com/eyefixcode/SAS) [<kbd> **SPSS** </kbd>](https://github.com/eyefixcode/SPSS) [<kbd> **R** </kbd>](https://github.com/eyefixcode/R)
