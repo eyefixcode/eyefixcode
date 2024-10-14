@@ -24,7 +24,7 @@
 <h3 align="center">Health informatic specialist dedicated to innovating health information technology to improve public health measures. 
 <br>
 <br>
-Currently exploring opportunites committed to combatting health disparities within the realm of bioinformatics and public health. 
+Currently exploring opportunites committed to combatting health disparities within the field of bioinformatics and public health. 
 <br>
 <br>
 I have specialized in developing data visualizations and data-mining solutions which has supported data-driven business operations in CRO's and diagnostic laboratories. </h3>
