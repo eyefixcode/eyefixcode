@@ -31,7 +31,7 @@ I have specialized in developing data visualizations and data-mining solutions w
 
 
 <!-- My Background -->
-- 👨‍💻 My Software stack (Link to Repos): 
+- 👨‍💻 My Software stack: 
 [<kbd> **Python** </kbd>](https://github.com/eyefixcode/Python) [<kbd> **SQL** </kbd>](https://github.com/eyefixcode/SQL) [<kbd> **SAS** </kbd>](https://github.com/eyefixcode/SAS) [<kbd> **SPSS** </kbd>](https://github.com/eyefixcode/SPSS) [<kbd> **R** </kbd>](https://github.com/eyefixcode/R)
 - 📊 Business Intelligence Proficiencies: **MS Power Platform (PowerBI/PowerAutomate/Sharepoint)**, **Metabase>**, and **Looker**.
 
