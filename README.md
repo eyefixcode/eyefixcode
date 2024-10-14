@@ -29,8 +29,7 @@ Highly interested in exploring opportunites committed to eradicating health disp
 <!-- My Background -->
 - 👨‍💻 My Software stack (Link to Repos): 
 [<kbd> **Python** </kbd>](https://github.com/eyefixcode/Python) [<kbd> **SQL** </kbd>](https://github.com/eyefixcode/SQL) [<kbd> **SAS** </kbd>](https://github.com/eyefixcode/SAS) [<kbd> **SPSS** </kbd>](https://github.com/eyefixcode/SPSS) [<kbd> **R** </kbd>](https://github.com/eyefixcode/R)
-- 📊 Business Intelligence Proficiencies: &nbsp;
-- **MS Power Platform (PowerBI/PowerAutomate/Sharepoint)**, **Metabase>**, and **Looker**.
+- 📊 Business Intelligence Proficiencies: &nbsp; **MS Power Platform (PowerBI/PowerAutomate/Sharepoint)**, **Metabase>**, and **Looker**.
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
 - 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
