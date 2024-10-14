@@ -24,7 +24,9 @@
 <h3 align="center">Health informatic enthusiast dedicated to innovating health information technology to improve health equity. 
 <br>
 <br>
-Highly interested in exploring opportunites committed to combatting health disparities within the realm of bioinformatics and public health. I have a successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in both CRO's and diagnostic laboratories. </h3>
+Highly interested in exploring opportunites committed to combatting health disparities within the realm of bioinformatics and public health. 
+<br>
+I have a successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in both CRO's and diagnostic laboratories. </h3>
 
 <!-- My Background -->
 - 👨‍💻 My Software stack (Link to Repos): 
