@@ -28,7 +28,7 @@
 Highly interested in exploring opportunites committed to eradicating health disparities and innovative research methods in realm of bioinformatics and public health. I have successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in both CRO's and diagnostic laboratories. </h3>
 
 <!-- My Background -->
-- 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, **<ins>SPSS</ins>**, and **<ins>R</ins>** <br><kbd> <br> Python <br> [https://github.com/eyefixcode/Python] </kbd>
+- 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, **<ins>SPSS</ins>**, and **<ins>R</ins>** <br><kbd> <br> Python <br> </kbd> [https://github.com/eyefixcode/Python] 
 - 📊 Business Intelligence Proficiencies: **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
 - 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
