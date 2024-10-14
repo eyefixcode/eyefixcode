@@ -29,7 +29,6 @@ Highly interested in exploring opportunites committed to eradicating health disp
 
 <!-- My Background -->
 - 👨‍💻 My Software stack includes: 
-
 [<kbd> **Python** </kbd>](https://github.com/eyefixcode/Python) [<kbd> **SQL** </kbd>](https://github.com/eyefixcode/SQL) [<kbd> **SAS** </kbd>](https://github.com/eyefixcode/SAS) [<kbd> **SPSS** </kbd>](https://github.com/eyefixcode/SPSS) [<kbd> **R** </kbd>](https://github.com/eyefixcode/R)
 
 
