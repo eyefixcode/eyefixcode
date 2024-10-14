@@ -28,10 +28,10 @@
 Highly interested in exploring opportunites committed to eradicating health disparities and innovative research methods in realm of bioinformatics and public health. I have successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in both CRO's and diagnostic laboratories. </h3>
 
 <!-- My Background -->
-- 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
 - 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, **<ins>SPSS</ins>**, and **<ins>R</ins>** <br>
 - 📊 Business Intelligence Proficiencies: **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
+- 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
 - 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 - ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, playing & watching Basketball 🏀 <br> **"*LETS GO LAKERS!*"**
 <!-- Background (LINKS) -->
