@@ -27,7 +27,7 @@
 Highly interested in exploring opportunites committed to eradicating health disparities and innovative research methods in realm of bioinformatics and public health. I have successful track record of implementing data visualization and data-mining solutions to support data-driven business operations in both CRO's and diagnostic laboratories. </h3>
 
 <!-- My Background -->
-- 👨‍💻 My Software stack includes: 
+- 👨‍💻 My Software stack includes (link to repos): 
 [<kbd> **Python** </kbd>](https://github.com/eyefixcode/Python) [<kbd> **SQL** </kbd>](https://github.com/eyefixcode/SQL) [<kbd> **SAS** </kbd>](https://github.com/eyefixcode/SAS) [<kbd> **SPSS** </kbd>](https://github.com/eyefixcode/SPSS) [<kbd> **R** </kbd>](https://github.com/eyefixcode/R)
 
 
