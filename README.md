@@ -21,6 +21,10 @@
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" height="2" speed="slow">
 
 
+[![Button Example]][Link]
+[Link]: # 'Link with example title.'
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+
 <!-- About me -->
 <h3 align="center">Health informatic enthusiast dedicated to innovating health information technology to improve health equity. 
 <br>
