@@ -34,7 +34,6 @@ Highly interested in exploring opportunites committed to eradicating health disp
   
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
 - 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
-- 🌱 I’m currently learning more on **React** and **Machine Learning Algorithms**
 - ⚡ My main Hobbies center around playing Video Games 🎮, tinkering with robots 🔧, playing & watching Basketball 🏀 <br> **"*LETS GO LAKERS!*"**
 <!-- Background (LINKS) -->
 <!-- - 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)** -->
