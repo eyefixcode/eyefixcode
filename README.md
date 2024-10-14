@@ -21,10 +21,6 @@
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" height="2" speed="slow">
 
 
-[![Button Example]][Link]
-[Link]: # 'Link with example title.'
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-
 <!-- About me -->
 <h3 align="center">Health informatic enthusiast dedicated to innovating health information technology to improve health equity. 
 <br>
@@ -34,7 +30,7 @@ Highly interested in exploring opportunites committed to eradicating health disp
 <!-- My Background -->
 - 👨‍💻 My Software stack includes: <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<ins>Python</ins>**, **<ins>SQL</ins>**, **<ins>SAS</ins>**, **<ins>SPSS</ins>**, and **<ins>R</ins>** 
 
-[![Python]][https://github.com/eyefixcode/Python]
+[![Python]] [https://github.com/eyefixcode/Python]
 - 📊 Business Intelligence Proficiencies: **<ins>MS Power Platform</ins> (<ins>PowerBI</ins>/<ins>PowerAutomate</ins>/<ins>Sharepoint</ins>)**, **<ins>Metabase</ins>**, and **<ins>Looker</ins>**.
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
 - 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a **Master in Public Health Candidate** at **USC Keck School of Medicine** concentrating on **<ins>Biostatistics</ins>** and **<ins>Epidemiology</ins>** 
