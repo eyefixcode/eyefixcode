@@ -4,8 +4,8 @@
 </div>
 <h1 align="center">
   <!-- Contact links -->
-  <a align="left" href="https://www.linkedin.com/in/james-bryce-settles-99675013a/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james bryce settles" height="30" width="40" /></a>
+  <a align="left" href="https://www.linkedin.com/in/james-settles-99675013a/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james settles" height="30" width="40" /></a>
   <a align="left" href="https://www.instagram.com/iceybrycie/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
   <a align="left" href="https://twitter.com/eyefixcode" target="_blank">
