@@ -33,7 +33,7 @@ I have specialized in developing data visualizations and data-mining solutions w
 <!-- My Background -->
 - 👨‍💻 My Software stack: 
 [<kbd> **Python** </kbd>](https://github.com/eyefixcode/Python) [<kbd> **SQL** </kbd>](https://github.com/eyefixcode/SQL) [<kbd> **SAS** </kbd>](https://github.com/eyefixcode/SAS) [<kbd> **SPSS** </kbd>](https://github.com/eyefixcode/SPSS) [<kbd> **R** </kbd>](https://github.com/eyefixcode/R)
-- 📊 Business Intelligence Proficiencies: **MS Power Platform (PowerBI/PowerAutomate/Sharepoint)**, **Metabase>**, and **Looker**.
+- 📊 Business Intelligence Proficiencies: **MS Power Platform (PowerBI/PowerAutomate/Sharepoint)**, **Metabase**, and **Looker**.
 
   
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
