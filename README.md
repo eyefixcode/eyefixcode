@@ -50,7 +50,12 @@ I have specialized in developing data visualizations and data-mining solutions w
 - ✅ Connect with me on **[Linkedin](https://www.linkedin.com/in/james-settles-99675013a/)** 
 
 <!-- Dynamic GitHub Stat Trackers -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyefixcode&show_icons=true&locale=en&layout=compact&theme=radical" alt="eyefixcode" height="135" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eyefixcode&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="eyefixcode" height="135" width="auto"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=radical" alt="GitHub Streak" height="135"/>
+</p> 
+
 <!-- Tech stack -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
