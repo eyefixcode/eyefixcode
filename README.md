@@ -46,7 +46,7 @@ I have specialized in developing data visualizations and data-mining solutions w
 <a> **How to Contact...** </a>
 <!-- - 📝 I regularly write articles **[HERE!](FUTURE SUBSTACK URL!)** -->
 - 📫 Email Address: **[Settles.James.B@gmail.com](mailto:Settles.James.B@gmail.com)**<br>
-- 📄 Download my **[RESUME](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**
+- 📄 Download my **[Resume](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)**
 - ✅ Connect with me on **[Linkedin](https://www.linkedin.com/in/james-settles/)** 
 
 <!-- Dynamic GitHub Stat Trackers -->
