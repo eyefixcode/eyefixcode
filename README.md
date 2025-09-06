@@ -37,7 +37,7 @@ I have specialized in developing data visualizations and data-mining solutions w
 
   
 - 💼 I have **<ins>4+ years</ins>** experience in leveraging my **Data Visualization**, **Automation**, and **Business Intelligence** expertise to improve business operations and data insights. 
-- 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 🔭 Currently freelancing as an **[Automation Consultant](https://eyefixcode.github.io/)** <br>
 - ⚡ My Hobbies include Video Games 🎮, tinkering with robots 🔧, and playing Basketball 🏀 <br>
 <!-- Background (LINKS) -->
 <!-- - 👨‍💻 Some of my public projects are available **[HERE!](https://eyefixcode.github.io/)** -->
