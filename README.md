@@ -70,6 +70,9 @@ Applied projects demonstrating real-world analytics, biomedical data workflows, 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eyefixcode&theme=radical" alt="GitHub streak" height="135" />
 </p>
 
+[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyefixcode)](https://github.com/eyefixcode/github-readme-stats)
+
+
 ## Languages and Tools
 
 <p align="left">
