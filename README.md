@@ -65,7 +65,7 @@ A curated set of repositories showcasing applied analytics, data engineering, an
 
 Applied projects demonstrating real-world analytics, biomedical data workflows, and applied research.
 
-[![CRISPR-TAG](https://img.shields.io/badge/CRISPR--TAG-View%20Project-6A1B9A?style=for-the-badge)](https://github.com/eyefixcode/CRISPR-TAG/tree/main)
+- [![CRISPR-TAG](https://img.shields.io/badge/CRISPR--TAG-View%20Project-6A1B9A?style=for-the-badge)](https://github.com/eyefixcode/CRISPR-TAG/tree/main)
 
 ---
 
