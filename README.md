@@ -37,13 +37,42 @@ Experienced in developing data visualizations and data-mining solutions to suppo
 
 ## 📂 Featured Repositories
 
-A curated set of repositories showcasing my work across programming, data analysis, and visualization.
+A curated set of repositories showcasing applied analytics, data engineering, and visualization work.
 
-[![Python](https://img.shields.io/badge/Python-Repository-3776AB?style=for-the-badge)](https://github.com/eyefixcode/Python)
-[![SQL](https://img.shields.io/badge/SQL-Repository-4479A1?style=for-the-badge)](https://github.com/eyefixcode/SQL)
-[![SAS](https://img.shields.io/badge/SAS-Repository-0057B8?style=for-the-badge)](https://github.com/eyefixcode/SAS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Repository-F7DF1E?style=for-the-badge)](https://github.com/eyefixcode/JS)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Repository-F2C811?style=for-the-badge)](https://github.com/eyefixcode/PowerBI)
+---
+
+### 🐍 Python
+Core repository for applications, data workflows, visualization, machine learning, and automation.
+
+[![Python Repo](https://img.shields.io/badge/View-Python%20Repository-3776AB?style=for-the-badge)](https://github.com/eyefixcode/Python)
+
+---
+
+### 🧮 SQL
+Reference-driven SQL examples covering query structure, joins, subqueries, and best practices.
+
+[![SQL Repo](https://img.shields.io/badge/View-SQL%20Repository-4479A1?style=for-the-badge)](https://github.com/eyefixcode/SQL)
+
+---
+
+### 📊 SAS
+Statistical analysis workflows and applied examples using SAS.
+
+[![SAS Repo](https://img.shields.io/badge/View-SAS%20Repository-0057B8?style=for-the-badge)](https://github.com/eyefixcode/SAS)
+
+---
+
+### 🌐 JavaScript
+Frontend and scripting projects focused on interactivity and automation.
+
+[![JavaScript Repo](https://img.shields.io/badge/View-JavaScript%20Repository-F7DF1E?style=for-the-badge)](https://github.com/eyefixcode/JS)
+
+---
+
+### 📈 Power BI
+Business intelligence dashboards and data visualization projects.
+
+[![Power BI Repo](https://img.shields.io/badge/View-Power%20BI%20Repository-F2C811?style=for-the-badge)](https://github.com/eyefixcode/PowerBI)
 
 ---
 
