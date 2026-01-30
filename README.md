@@ -67,7 +67,7 @@ Selected applied projects focused on biomedical data workflows, automation, and 
 - **🧬 CRISPR-TAG** — Automated sgRNA and donor design for site-specific gene tagging  
   Python-based pipeline integrating Ensembl, CRISPOR, and Primer-BLAST to produce cloning-ready guide RNAs, donor oligos, and primers.
 
-  [![View Project](https://img.shields.io/badge/View-CRISPR--TAG-6A1B9A?style=for-the-badge)](https://github.com/eyefixcode/CRISPR-TAG/README.md)
+  [![View Project](https://img.shields.io/badge/View-CRISPR--TAG-6A1B9A?style=for-the-badge)](https://github.com/eyefixcode/CRISPR-TAG)
 ---
 
 ## 📫 Contact
