@@ -24,7 +24,7 @@
 
 Health informatics specialist focused on innovating health information technology to improve public health.
 
-Currently exploring opportunities committed to combating health disparities in bioinformatics and public health.
+Currently exploring opportunities committed to combating health disparities in bioinformatics and public health research.
 
 Experienced in developing data visualizations and data-mining solutions to support data-driven operations in CROs and diagnostic laboratories.
 
