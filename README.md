@@ -21,7 +21,7 @@
 <img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" height="2" speed="slow">
 
 <!-- About me -->
-<h3 align="center">Health informatic specialist dedicated to innovating health information technology to improve public health.
+<h3 align="center">Health informatics specialist dedicated to innovating health information technology to improve public health.
 <br>
 <br>
 Currently exploring opportunites committed to combatting health disparities within the field of bioinformatics and public health. 
