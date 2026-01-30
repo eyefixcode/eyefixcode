@@ -44,42 +44,21 @@ A curated set of repositories showcasing applied analytics, data engineering, an
 
 A curated set of repositories showcasing applied analytics, data engineering, and visualization work.
 
----
+- **🐍 Python** — Applications, data workflows, visualization, machine learning, and automation  
+  [![View Python Repo](https://img.shields.io/badge/View-Python%20Repository-3776AB?style=for-the-badge)](https://github.com/eyefixcode/Python)
 
-#### 🐍 Python  
-Core repository for applications, data workflows, visualization, machine learning, and automation.
+- **🧮 SQL** — Reference-driven SQL covering joins, subqueries, CTEs, and best practices  
+  [![View SQL Repo](https://img.shields.io/badge/View-SQL%20Repository-4479A1?style=for-the-badge)](https://github.com/eyefixcode/SQL)
 
-[![View Python Repo](https://img.shields.io/badge/View-Python%20Repository-3776AB?style=for-the-badge)](https://github.com/eyefixcode/Python)
+- **📊 SAS** — Statistical analysis workflows and applied examples  
+  [![View SAS Repo](https://img.shields.io/badge/View-SAS%20Repository-0057B8?style=for-the-badge)](https://github.com/eyefixcode/SAS)
 
----
+- **🌐 JavaScript** — Frontend and scripting projects for interactivity and automation  
+  [![View JavaScript Repo](https://img.shields.io/badge/View-JavaScript%20Repository-F7DF1E?style=for-the-badge)](https://github.com/eyefixcode/JS)
 
-#### 🧮 SQL  
-Reference-driven SQL examples covering query structure, joins, subqueries, and best practices.
-
-[![View SQL Repo](https://img.shields.io/badge/View-SQL%20Repository-4479A1?style=for-the-badge)](https://github.com/eyefixcode/SQL)
-
----
-
-#### 📊 SAS  
-Statistical analysis workflows and applied examples using SAS.
-
-[![View SAS Repo](https://img.shields.io/badge/View-SAS%20Repository-0057B8?style=for-the-badge)](https://github.com/eyefixcode/SAS)
-
----
-
-#### 🌐 JavaScript  
-Frontend and scripting projects focused on interactivity and automation.
-
-[![View JavaScript Repo](https://img.shields.io/badge/View-JavaScript%20Repository-F7DF1E?style=for-the-badge)](https://github.com/eyefixcode/JS)
-
----
-
-#### 📈 Power BI  
-Business intelligence dashboards and data visualization projects.
-
-[![View Power BI Repo](https://img.shields.io/badge/View-Power%20BI%20Repository-F2C811?style=for-the-badge)](https://github.com/eyefixcode/PowerBI)
-
-
+- **📈 Power BI** — Business intelligence dashboards and data visualization  
+  [![View Power BI Repo](https://img.shields.io/badge/View-Power%20BI%20Repository-F2C811?style=for-the-badge)](https://github.com/eyefixcode/PowerBI)
+  
 ---
 
 ## 🧪 Projects
