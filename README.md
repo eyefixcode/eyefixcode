@@ -1,32 +1,24 @@
-  <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="MarioCoder banner" width="900" height="300" />
-</p>
-
-<!-- Socials + Intro -->
-<h1 align="center">Hi 👋, I'm James Settles!</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/james-settles-99675013a/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" />
-  </a>
-  <a href="https://www.instagram.com/iceybrycie/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="28" width="38" />
-  </a>
-  <a href="https://twitter.com/eyefixcode" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="28" width="38" />
-  </a>
-  <a href="https://www.youtube.com/c/eyefixcode" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="28" width="38" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="28" />
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" alt="divider" width="1200" height="2" />
-</p>
+<!-- Background image: MarioCoder XD -->
+<div align="center">
+  <img src="https://github.com/eyefixcode/Misc/raw/main/gifs/mariocoder.gif" alt="Background Image" width="900" height="300">
+</div>
+<h1 align="center">
+  <!-- Contact links -->
+  <a align="left" href="https://www.linkedin.com/in/james-settles-99675013a/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james settles" height="30" width="40" /></a>
+  <a align="left" href="https://www.instagram.com/iceybrycie/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefixcode" height="30" width="40" /></a>
+  <a align="left" href="https://twitter.com/eyefixcode" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyefixcode" height="30" width="40" /></a>
+  <a align="left" href="https://www.youtube.com/c/eyefixcode" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyefixcode" height="30" width="40" /></a>
+  <!-- Name intro -->
+  <b align="center">Hi 👋, I'm James Settles!</b>
+  <!-- Profile visit counter dynamic -->
+  <img align="right" src="https://komarev.com/ghpvc/?username=eyefixcode&label=Profile%20views&color=0e75b6&style=flat" alt="eyefixcode" height=30>
+</h1>
+  
+<img align="center" src="https://github.com/eyefixcode/Misc/blob/main/gifs/RGB_Lighting.gif" width="1500" height="2" speed="slow">
 
 ## About
 
@@ -65,9 +57,9 @@ Applied projects demonstrating real-world analytics, biomedical data workflows, 
 
 ## 📫 Contact
 
-- [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge)](mailto:Settles.James.B@gmail.com)
-- [![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge)](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/james-settles/)
+- 📩 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge)](mailto:Settles.James.B@gmail.com)
+- 📄 [![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge)](https://eyefixcode.github.io/assets/resume/Resume_Settles.pdf)
+- ✅ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/james-settles/)
 
 ---
 
