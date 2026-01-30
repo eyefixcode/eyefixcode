@@ -30,8 +30,23 @@ Currently exploring opportunites committed to combatting health disparities with
 I have experience in developing data visualizations and data-mining solutions which has supported data-driven business operations in CRO's and diagnostic laboratories. </h3>
 
 
-<!-- Testing button -->
-[![Repo Name](https://img.shields.io/badge/Repo%20Name-View-blue?style=for-the-badge)](https://github.com/USERNAME/REPO)
+## 📂 Featured Repositories
+
+A curated set of repositories showcasing my work across programming, data analysis, and visualization.
+
+[![Python](https://img.shields.io/badge/Python-Repository-3776AB?style=for-the-badge)](https://github.com/eyefixcode/Python)
+[![SQL](https://img.shields.io/badge/SQL-Repository-4479A1?style=for-the-badge)](https://github.com/eyefixcode/SQL)
+[![SAS](https://img.shields.io/badge/SAS-Repository-0057B8?style=for-the-badge)](https://github.com/eyefixcode/SAS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Repository-F7DF1E?style=for-the-badge)](https://github.com/eyefixcode/JS)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Repository-F2C811?style=for-the-badge)](https://github.com/eyefixcode/PowerBI)
+
+---
+
+## 🧪 Projects
+
+Applied projects demonstrating real-world analytics, biomedical data workflows, and applied research.
+
+[![CRISPR-TAG](https://img.shields.io/badge/CRISPR--TAG-View%20Project-6A1B9A?style=for-the-badge)](https://github.com/eyefixcode/CRISPR-TAG/tree/main)
 
 <!-- My Background -->
 - 👨‍💻 My Software stack: 
