@@ -60,13 +60,14 @@ A curated set of repositories showcasing applied analytics, data engineering, an
   [![View Power BI Repo](https://img.shields.io/badge/View-Power%20BI%20Repository-F2C811?style=for-the-badge)](https://github.com/eyefixcode/PowerBI)
   
 ---
-
 ## 🧪 Projects
 
-Applied projects demonstrating real-world analytics, biomedical data workflows, and applied research.
+Selected applied projects focused on biomedical data workflows, automation, and real-world research tooling.
 
-- [![CRISPR-TAG](https://img.shields.io/badge/CRISPR--TAG-View%20Project-6A1B9A?style=for-the-badge)](https://github.com/eyefixcode/CRISPR-TAG/tree/main)
+- **🧬 CRISPR-TAG** — Automated sgRNA and donor design for site-specific gene tagging  
+  Python-based pipeline integrating Ensembl, CRISPOR, and Primer-BLAST to produce cloning-ready guide RNAs, donor oligos, and primers.
 
+  [![View Project](https://img.shields.io/badge/View-CRISPR--TAG-6A1B9A?style=for-the-badge)](https://github.com/eyefixcode/CRISPR-TAG/tree/main)
 ---
 
 ## 📫 Contact
